@@ -1,5 +1,5 @@
 HI, im TKMASTER 
 
-i am sort of a beginner programmer.
+I am a programmer.
 
-I do python and kali linux stuff init.
+I like to hack things.
